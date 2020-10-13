@@ -1,2 +1,2 @@
 # Caesar
- Simple Caesar transcoder
+ Simple Caesar transcoder in QT for school project
