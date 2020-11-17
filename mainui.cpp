@@ -17,7 +17,6 @@ MainUi::~MainUi()
 
 void MainUi::on_translateButton_clicked()
 {
-    QString noTranslate = " 0123456789";
     QString input = ui->Input->toPlainText();
     QString result = "";
     int offset = ui->spinBox->value();
